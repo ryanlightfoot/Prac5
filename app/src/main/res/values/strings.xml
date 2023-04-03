@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prac 5</string>
+
+    <string name="CapeTown">Cape Town</string>
+    <string name="Durban">Durban</string>
+    <string name="Jbay">JBay</string>
+</resources>
